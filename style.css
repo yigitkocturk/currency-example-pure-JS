@@ -1,0 +1,37 @@
+body{
+    background-color: cadetblue;
+}
+
+header{
+    text-align: center;
+    background: black;
+    color: #fff;
+    padding: 15px 0;
+}
+
+.container{
+    max-width: 400px;
+    margin: 20px auto;
+}
+.currency-box{
+    margin: 20px 0;
+}
+.currency-amount{
+    margin: 15px 0 ;
+}
+.currency-calculate{
+    margin: 15px 0;
+}
+.currency-calculate button{
+    width: 100%;
+    padding: 10px;
+    background: darkblue;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px ;
+}
+.currency-result{
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
